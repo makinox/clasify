@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caa1e67d-e9c2-4663-8d13-b64081ebf413" name="Default Changelist" comment="" />
+    <list default="true" id="caa1e67d-e9c2-4663-8d13-b64081ebf413" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/strem/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strem/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ BARCELONA .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ CARTAGENA .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ LAS VEGAS .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ LISBOA .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ LISBON .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ LONDRES .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ MADRID .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ MARSELLA .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ NEW YORK .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ OVIEDO .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ PARIS .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ SANTANDER .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/ SEVILLA .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/BARCELONA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/LAS VEGAS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/LONDON.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/city/SAN FRANCISCO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 09877359-D.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 10863096-N.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 25384390-A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 32445934-H.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 52498689-Q.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 54315871-Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 54808168-L.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 58202263-G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 69429384-C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/ 90844421-X.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/04217040J.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/04810023X.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/09877359D.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/10863096N.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/12020245P.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/15015516N.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/17200667W.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/21743514G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/23803975X.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/25384390A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/27466628M.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/32445934H.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/38399984N.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/44340637H.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/51011156P.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/52498689Q.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/54315871Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/54808168L.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/58202263G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/58204706D.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/61682270L.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/66991455E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/69429384C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/74176315G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/76878166E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/82098573G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/84604786E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/87179151C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/90844421X.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/ids/93654902Y.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state relative-caret-position="400">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,13 +84,9 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/data.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="30" selection-end-line="47" selection-end-column="31" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/out/city/ BARCELONA .txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -41,10 +98,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/data/data.txt" />
+        <option value="$PROJECT_DIR$/src/out/city/ CARTAGENA .txt" />
         <option value="$PROJECT_DIR$/src/main/Main.java" />
       </list>
     </option>
@@ -55,6 +116,7 @@
     <option name="width" value="1342" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -79,6 +141,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="strem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="city" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -89,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546615908196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546617349522" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -135,12 +204,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546610125150</updated>
-      <workItem from="1546610131453" duration="5648000" />
+      <workItem from="1546610131453" duration="7079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5648000" />
+    <option name="totallyTimeSpent" value="7079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-24" width="1372" height="795" extended-state="6" />
@@ -153,7 +222,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299712" />
+      <window_info anchor="bottom" id="Messages" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -161,7 +230,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32756132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,13 +250,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="30" selection-end-line="47" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ SANTANDER .txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -214,15 +276,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/ids/ 09877359-D.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/city/ MADRID .txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="30" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/city/ LISBON .txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/ids/04217040J.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/city/ CARTAGENA .txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/city/ LAS VEGAS .txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        <state relative-caret-position="400">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/city/ BARCELONA .txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

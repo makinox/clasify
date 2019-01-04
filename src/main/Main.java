@@ -31,29 +31,31 @@ public class Main {
 
   }
 
-  public static void verifyState(String line) throws FileNotFoundException, UnsupportedEncodingException {
+  private static void verifyState(String line) throws IOException {
     new File("src/out").mkdirs();
     if (line.substring(0,2).equals("F1") || line.substring(0,2).equals("F2")){
       //System.out.println("--");
     } else {
-      // System.out.println(line.split(";|,")[0].substring(2));
+      System.out.println(line);
       createCity(line.split(";|,")[1], line.split(";|,")[0].substring(2), line.split(";|,")[2]  );
       createId(line.split(";|,")[1] , line.split(";|,")[2]);
     }
   }
 
-  public static void createCity(String city, String name, String id) throws FileNotFoundException, UnsupportedEncodingException {
+  private static void createCity(String city, String name, String id) throws IOException {
     new File("src/out/city").mkdirs();
-    PrintWriter writer = new PrintWriter("src/out/city/"+city+".txt", "UTF-8");
-    writer.println(name+", "+id);
+    Writer writer = new BufferedWriter(new FileWriter("src/out/city/"+city+".txt", true));
+    writer.append(name+", "+id);
+    ((BufferedWriter) writer).newLine();
     writer.close();
 
   }
 
-  public static void createId(String city, String id) throws FileNotFoundException, UnsupportedEncodingException {
+  private static void createId(String city, String id) throws IOException {
     new File("src/out/ids").mkdirs();
-    PrintWriter writer = new PrintWriter("src/out/ids/"+id+".txt", "UTF-8");
-    writer.println(city);
+    Writer writer = new BufferedWriter(new FileWriter("src/out/ids/"+id+".txt", true));
+    writer.append(city);
+    ((BufferedWriter) writer).newLine();
     writer.close();
   }
 }
